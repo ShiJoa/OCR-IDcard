@@ -5,9 +5,9 @@
 
 ## 环境
 
-PyTorch==1.12.1+cuda
-transformers==4.36.2
-datasets==2.16.1
+<p>PyTorch==1.12.1+cuda</p>
+<p>transformers==4.36.2</p>
+<p>datasets==2.16.1</p>
 
 [数据集](https://huggingface.co/datasets/lansinuote/ocr_id_card_small)
 ```
