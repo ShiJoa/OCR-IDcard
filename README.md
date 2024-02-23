@@ -18,8 +18,8 @@ name = 'lansinuote/ocr_id_card_small'
 load_dataset(name).save_to_disk('dataset/' + name)
 ```
 
-[DETR-RESNET-50模型](%3Cspan%3E%3Cdiv%3Ehttps://huggingface.co/facebook/detr-resnet-50%3C/div%3E%3C/span%3E)
+[DETR-RESNET-50模型](https://huggingface.co/facebook/detr-resnet-50)
  
- [trocr-base-handwritten 模型](%3Cspan%3E%3Cdiv%3Ehttps://huggingface.co/microsoft/trocr-base-handwritten%3C/div%3E%3C/span%3E)
+ [trocr-base-handwritten 模型](https://huggingface.co/microsoft/trocr-base-stage1)
 
  
